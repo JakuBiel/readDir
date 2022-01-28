@@ -1,22 +1,23 @@
 {
-	"name": "y",
+	"name": "readDir",
 	"version": "1.0.0",
 	"description": "",
 	"main": "app.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
+	"bin": {
+		"ndir": "app.js"
+	},
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/JakuBiel/readDir.git"
 	},
-	"author": "JakuBiel",
+	"keywords": [],
+	"author": "",
 	"license": "ISC",
 	"bugs": {
 		"url": "https://github.com/JakuBiel/readDir/issues"
 	},
-	"homepage": "https://github.com/JakuBiel/readDir#readme",
-	"bin": {
-		"ndir": "app.js"
-	}
+	"homepage": "https://github.com/JakuBiel/readDir#readme"
 }
